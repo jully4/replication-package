@@ -8,7 +8,7 @@ As planilhas reúnem os dados extraídos das publicações analisadas e serviram
 
 ## Conteúdo do repositório
 
-O pacote de replicação é composto pelas seguintes planilhas:
+O pasta DADOS é composta pelas seguintes planilhas:
 
 - **Artigos Selecionados:** contém os 59 artigos recuperados na busca inicial, bem como a indicação dos critérios de inclusão e exclusão aplicados durante a etapa de seleção, resultando no conjunto final de publicações analisadas.
 
