@@ -10,17 +10,12 @@ As planilhas reúnem os dados extraídos das publicações analisadas e serviram
 
 O pacote de replicação é composto pelas seguintes planilhas:
 
-- **Principal:** contém a relação das publicações analisadas, bem como o link de acesso para cada uma delas.
+
 
 - **Características Gerais:** apresenta as informações gerais extraídas de cada publicação.
 
 - **Especificações:** reúne as características e informações extraídas sobre os recursos identificados em cada publicação.
 
-- **Ferramentas e Tecnologias Compatíveis:** apresenta as ferramentas, tecnologias e plataformas mencionadas nas publicações analisadas.
-
-- **Limitações (Geral):** reúne todas as limitações, desafios e restrições identificados durante a extração dos dados.
-
-- **Limitações (Seleção):** apresenta a seleção e organização das limitações utilizadas na análise dos resultados.
 
 ## Observações
 
