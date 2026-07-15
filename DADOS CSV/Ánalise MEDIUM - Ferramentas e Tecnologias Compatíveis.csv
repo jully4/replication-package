@@ -1,0 +1,144 @@
+RECURSOS,TECNOLOGIAS COMPATÍVEIS
+WAVE,Chrome
+Deque ,NodeJS
+não especifica,Selenium
+IBM Equal Access Accessibility Checker,Puppeteer
+Axe,Playwright
+DigitalA11Y Tublets,não especificado
+HalfAccessible — Accessibility Toolkit,Cypress
+Accessibility Tracker,CMS
+SiteImprove,WordPress
+BrowserStack Accessibility Testing,Drupal
+AccessiBe,"CI/CD (Jira, GitHub)"
+EqualWeb,NVDA
+Acquia Optimize,SDK
+Level Access AMP,VoiceOver
+AudioEye,GitHub
+DubBot,Jira
+Google Sheets / Excel,build tools
+Jira/ Asana,CI/CD
+TPGi ARC,Azure DevOps
+JAWS Screen Reader,Jenkins
+Tenon.ai (Level Access),API
+Silktide,não se aplica
+UserWay,JAWS
+Shopify,browser
+Accessibility Insights for Web,FIGMA
+AllAccessible,VS code
+W3C Accessibility Statement Generator,web
+Accessibility Statement,CLI
+GOV.UK accessibility statement guidance,mobile
+Accessibility Checker (Equalize Digital),emuladores
+Centralised Translation Service,Firefox
+Extended Accessibility Features,Windows
+Accessibility Inspector,desktop
+WCAG 2.1,Puppeteer
+Lighthouse,Mocha
+Manual Testing + Assistive Technologies,integrado ao Pa11y
+Accessible Design Principles (POUR),Linux
+Axe DevTools,MacOS / iOS
+PageSpeed Insights,HTML
+Axe Lint,CSS
+Contrast (Figma Plugin),Extenção de navegador
+Axe for Designers (Figma Plugin),Sketch
+Color Contrast Checker (Coolors),Edge
+WebAIM Contrast Checker,Scanners automatizados
+User Testing,Cloud de produtos e serviços
+Axe DevTools Pro,Atalhos de teclado
+Pa11y,Teclado
+Deque AXE Coconut,Opera
+NVDA,XD
+Deque WorldSpace,IDE
+Accessible Design Practices, DevTools
+Stark Plugin,Shopify
+Axe Accessibility Checker,Android
+A11Y Color Contrast Checker,
+Web Content Accessibility Guidelines (WCAG),
+W3C Web Accessibility Initiative (WAI) Resources,
+GOV.UK Design System,
+U.S. Web Design System,
+A11Y Project Checklist,
+Coolors,
+Color Contrast Analyzer,
+Axe-core,
+HTML CodeSniffer (HTMLCS),
+WordPress Accessibility Improvements,
+Keyboard Accessibility,
+Accessible Media Implementation,
+Google Text-to-Speech Extension,
+Yoast SEO,
+GNOME Orca,
+ChromeVox,
+VoiceOver,
+KeyboardTester,
+a11yTools,
+WebAIM’s WCAG 2 Checklist:,
+W3C Quick Ref:,
+The A11y Project,
+Access Guide,
+Web Accessibility Checklist,
+HTML Semântico / Estados de Foco / Rótulos (Labels),
+ARIA-labels,
+Monsido,
+CrownPeak,
+Web Developer by Chris,
+Auditorias e Remediação Manual (Metodologia),
+Grammarly,
+Clipboard History Pro,
+Accessible Color Picker by Level Access,
+Accessible color palette builder,
+ColorSafe,
+DVCP (Data Viz Color Picker),
+ACG (Accessible Color Generator),
+Cloudflare Design Color tool,
+Accessible Brand Colors,
+Colors.review,
+Colorable,
+Contrast Checker ,
+Tanaguru Contrast-Finder,
+Contrast Grid,
+Contraste,
+Deque Color Contrast Analyzer,
+Colour Contrast Analyser (CCA) - Vispero,
+Hex Naw,
+Color Tool (Material Design),
+Randoma11y,
+Contrast for UI,
+Color Oracle,
+Toptal Color Blind Filter,
+Who can use,
+BDA Style Guide (British Dyslexia Association),
+Able (Plugin),
+Cluse (Plugin),
+Color Blind (Plugin),
+"Color contrast checker, analyzer and color suggestions",
+Instant Eyedropper,
+Web Developer Toolbar por Chris Pederick,
+Temi,
+Box,
+Word ,
+Árvore de acessibilidade,
+ web Wix ,
+MDN Docs,
+A11y (Accessibility) - Guideline,
+Práticas de design de aplicativos IOS acessíveis (Metodologia),
+Práticas para melhorar a acessibilidade,
+Contrast Ratio,
+Colorblind Web Page Filter ,
+Coblis - Color Blindness Simulator,
+Projeto DOSVOX,
+Qualidades a serem consideradas em plataformas de acessibilidade,
+Guia para comprar Software e ferramentas de acessibilidade,
+UsableNet AQA,
+Dopely colors,
+MDN Web Docs Accessibility,
+HTML5 Accessibility,
+WebAIM’s CSS Resources,
+Accessible Brand Colors,
+Colors that look and work great for everyone,
+IBM Content Clarifier,
+Deque Keyboard Guided Tests,
+Dolphin screen reader,
+Orca,
+Narrator,
+TalkBack,
