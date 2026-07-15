@@ -10,7 +10,7 @@ As planilhas reúnem os dados extraídos das publicações analisadas e serviram
 
 O pacote de replicação é composto pelas seguintes planilhas:
 
-
+- **Artigos Selecionados:** contém os 59 artigos recuperados na busca inicial, bem como a indicação dos critérios de inclusão e exclusão aplicados durante a etapa de seleção, resultando no conjunto final de publicações analisadas.
 
 - **Características Gerais:** apresenta as informações gerais extraídas de cada publicação.
 
